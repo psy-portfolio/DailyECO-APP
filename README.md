@@ -1,7 +1,7 @@
 # DailyECO-App
 ## <DailyECO 환경보호> 앱
     제작 시기(소요 시간): 22년 09월~11월(3개월)
-    작업 툴: AndroidStudio(JAVA), PowerPoint
+    작업 툴: AndroidStudio(JAVA), PowerPoint, Photoshop 
     작업자(기여도): 박서연(30%), 최윤아(30%), 백지원(20%), 강희주(10%), 이한빛(10%)
 
 ### 어플개발
